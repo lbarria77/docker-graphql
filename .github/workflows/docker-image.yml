@@ -32,3 +32,5 @@ jobs:
     - name: Push Docker Image
       run: |
         docker push lbarria77/docker-graphql:0.0.1 .
+        
+    
